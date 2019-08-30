@@ -1,3 +1,13 @@
+# Frontend Demo
+
+Code we wrote during "Seminar: Modern Frontend Dev For Dinosaurs"
+
+Demo: https://assurance-frontend-demo.netlify.com/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f8f750e3-e9dd-43e2-bcc6-e7d1d72ec7ab/deploy-status)](https://app.netlify.com/sites/quizzical-wiles-15a48a/deploys)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
